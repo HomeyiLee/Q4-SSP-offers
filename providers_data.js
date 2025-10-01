@@ -46,8 +46,11 @@ const providers = [
         company: "博智衛好智權有限公司",
         service_type: "商標申請",
         offer_description: "海外商標9折",
+        company_intro: "博智衛好提供世界各地的商標、外觀設計、專利、版權及其他智慧財產註冊申請、維護和監控、授權及維權代理服務。亦有豐富的亞馬遜賣家商標申請以及品牌註冊經歷。",
+        website: "https://www.bcrights.com/",
         phone: "0965596536",
-        email: "vickylee@gmail.com"
+        email: "vickylee@gmail.com",
+        logo: "博智衛好.png"
     },
     // 5. Odin跨境電商運營 - 廣告優化
     {
